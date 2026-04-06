@@ -7,7 +7,7 @@ const slides = [
     type: "text",
     badge: "Cargando recuerdos...",
     title: "Entrando al archivo secreto 🌻",
-    subtitle: "Procesando fotos tuyas, momentos bonitos y una cantidad irresponsable de ternura.",
+    subtitle: "Procesando fotos suyas, momentos bonitos y una cantidad irresponsable de ternura.",
   },
   {
     type: "photo",
@@ -18,27 +18,27 @@ const slides = [
   {
     type: "photo",
     image: "/s2.jpg",
-    caption: "No encontré fotos normales tuyas 👍",
+    caption: "No encontré fotos normales suyas 👍",
     small: "Así que me vi obligado a usar puro material comprometedor y ligeramente adorable.",
   },
   {
     type: "text",
     badge: "Pausa dramática",
     title: "Pero fuera de broma...",
-    subtitle: "Entre chiste y chiste, sí quería hacerte algo bonito de verdad.",
+    subtitle: "Entre chiste y chiste, sí quería hacerle algo bonito de verdad.",
   },
   {
     type: "photo",
     image: "/s3.jpeg",
     caption: "Esta me gusta mucho 💛",
-    small: "Porque te ves linda, tranquila y con esa vibra que alegra todo sin esfuerzo.",
+    small: "Porque se ve linda, tranquila y con esa vibra que alegra todo sin esfuerzo.",
   },
   {
     type: "final",
     badge: "Fin del recorrido",
     title: "Feliz cumpleaños 🌻",
     subtitle:
-      "Gracias por ser tú. Por tu forma de reírte, por tu esencia, y hasta por ese toque tuyo medio insoportable que igual cae bien. 💛",
+      "Gracias por ser usted. Por su forma de reírse, por su esencia, y hasta por ese toque suyo medio insoportable que igual cae bien. 💛",
   },
 ];
 
@@ -95,7 +95,7 @@ function Cumple() {
         }
       }, 700);
     } else {
-      setFeedback("Mmm… intenta otra vez 👀");
+      setFeedback("Mmm… intente otra vez 👀");
       setTimeout(() => setFeedback(""), 900);
     }
   };
@@ -123,7 +123,7 @@ function Cumple() {
           <div className="flower">🌻</div>
           <p className="eyebrow">Sorpresa de cumple</p>
           <h1>No toques esto 😶</h1>
-          <p className="subtitle">Para entrar… tienes que demostrar que sí mereces ver esto 😌</p>
+          <p className="subtitle">Para entrar… tiene que demostrar que sí merece ver esto 😌</p>
           <button className="main-btn" onClick={() => setStarted(true)}>
             Intentar desbloquear
           </button>
