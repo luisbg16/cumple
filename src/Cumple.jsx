@@ -11,13 +11,13 @@ const slides = [
   },
   {
     type: "photo",
-    image: "/s1.jpeg",
+    image: "/s1.jpg",
     caption: "Empezamos fuerte…",
     small: "Claramente esta selección fue hecha con mucho cariño y cero filtros periodísticos.",
   },
   {
     type: "photo",
-    image: "/s2.jpeg",
+    image: "/s2.jpg",
     caption: "No encontré fotos normales tuyas 👍",
     small: "Así que me vi obligado a usar puro material comprometedor y ligeramente adorable.",
   },
