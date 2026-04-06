@@ -45,28 +45,28 @@ const slides = [
 const questions = [
   {
     q: "¿Cómo se llama mi perro? 🐶",
-    image: "/q1.jpg",
+    image: "/q1.jpeg",
     options: ["Nombre random", "El correcto 😌", "Ese que siempre dices mal", "No sé pero me cae bien"],
     correct: 1,
     hint: "Pista: lo has escuchado mil veces",
   },
   {
     q: "¿Dónde fue nuestra primera salida? 🍔",
-    image: "/q2.jpg",
+    image: "/q2.jpeg",
     options: ["Un lugar fancy", "Donde casi no pedimos nada 😒", "El correcto 💛", "No me acuerdo (grave)"],
     correct: 2,
     hint: "Pista: hubo algo chistoso ese día",
   },
   {
     q: "¿Cuál es nuestro primer recuerdo juntos? 👀",
-    image: "/q3.jpg",
+    image: "/q3.jpeg",
     options: ["Algo normal", "Algo que solo tú y yo entendemos 😏", "Un momento incómodo", "Todas son válidas"],
     correct: 1,
     hint: "Pista: si lo sabes, lo sabes",
   },
   {
     q: "Pregunta importante 😌",
-    image: "/q4.jpg",
+    image: "/q4.jpeg",
     options: ["Correcta", "Correcta", "Correcta", "Correcta"],
     correct: 0,
     hint: "Pista: aquí ya ganaste",
