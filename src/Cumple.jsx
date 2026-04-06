@@ -31,14 +31,14 @@ const slides = [
     type: "photo",
     image: "/s3.jpeg",
     caption: "Esta me gusta mucho 💛",
-    small: "Porque se ve linda, tranquila y con esa vibra que alegra todo sin esfuerzo.",
+    small: "Claramente nos vemos super mega lindos",
   },
   {
     type: "final",
     badge: "Fin del recorrido",
     title: "Feliz cumpleaños 🌻",
     subtitle:
-      "Gracias por ser usted. Por su forma de reírse, por su esencia, y hasta por ese toque suyo medio insoportable que igual cae bien. 💛",
+      "Gracias por ser usted. Por su forma de reírse, por su esencia, y hasta por ese toque suyo medio fachento que igual cae bien. 💛 JAJAJAJ la amo, y siempre ser+a así, espero algún día podamos intentarlo nuevamente",
   },
 ];
 
@@ -48,7 +48,7 @@ const questions = [
     image: "/q1.jpeg",
     options: ["Azul", "Blu", "Blu demon", "Nunca me cayó bien"],
     correct: 1,
-    hint: "Pista: lo has escuchado mil veces",
+    hint: "Pista: lo ha escuchado mil veces",
   },
   {
     q: "¿Dónde fue nuestra primera salida? 🍔",
@@ -62,14 +62,14 @@ const questions = [
     image: "/q3.jpeg",
     options: ["El bullying que me hacía usted a mí", "El buen gusto musical que tenía usted", "Lo bien que la traté en nuestra cita", "Todas"],
     correct: 2,
-    hint: "Pista: si lo sabes, lo sabes",
+    hint: "Pista: uste me hizo bullynh",
   },
   {
     q: "¿Quién hacía más bullying? 😌",
     image: "/q4.jpeg",
     options: ["Gissela", "Marina", "Gissela Marina", "Marina Castillo"],
     correct: 0,
-    hint: "Pista: aquí ya ganaste",
+    hint: "Pista: aquí gana por goleada",
   },
 ];
 
